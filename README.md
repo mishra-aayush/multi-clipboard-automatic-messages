@@ -1,0 +1,1 @@
+# multi-clipboard-automatic-messages
